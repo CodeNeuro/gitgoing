@@ -38,10 +38,10 @@ def test_std_plus_one(x_norm):
     assert test_std == true_std
 
 def test_cv_broken(x_norm):
-    from gitgoing.gitgoing import std_plus_one, mean_plus_one, cv
+    from gitgoing import std_plus_one, mean_plus_one, cv
 
     test_cv = cv(x_norm)
-    true_cv = std_plus_one(x_norm)/mean_plus_one(x_norm)
+    true_cv = mean_plus_one(x_norm)/std_plus_one(x_norm)
 
     # This test will fail
     assert test_cv == true_cv
