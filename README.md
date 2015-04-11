@@ -1,4 +1,4 @@
-# gitgoing
+# gitgoing Katie
 # This is from Katie's clone of a gitgoing fork. 
 
 [![Build Status](https://travis-ci.org/CodeNeuro/gitgoing.png?branch=master)](https://travis-ci.org/CodeNeuro/gitgoing) 
