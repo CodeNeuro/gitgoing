@@ -57,7 +57,7 @@ def cv(x):
     cv : float
         The coefficient of variation of the entire array
     """
-    return mean_plus_one(x)/std_plus_one(x)
+    return std_plus_one(x)/mean_plus_one(x)
 
 def is_neuron_component(component):
     return component in NEURON_COMPONENTS
