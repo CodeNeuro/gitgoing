@@ -1,9 +1,8 @@
-# gitgoing
+# gitgoing [![Build Status](https://travis-ci.org/CodeNeuro/gitgoing.png?branch=master)](https://travis-ci.org/CodeNeuro/gitgoing) [![Join the chat at https://gitter.im/CodeNeuro/gitgoing](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodeNeuro/gitgoing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) Get going with contributing to open-source software 
+Jason's Version
+typitty type type
 
-[![Build Status](https://travis-ci.org/CodeNeuro/gitgoing.png?branch=master)](https://travis-ci.org/CodeNeuro/gitgoing) 
-[![Join the chat at https://gitter.im/CodeNeuro/gitgoing](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodeNeuro/gitgoing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Get going with contributing to open-source software
+even more super important text
 
 * Free software: BSD license
 * Documentation: https://gitgoing.readthedocs.org.
