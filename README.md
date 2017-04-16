@@ -10,6 +10,7 @@ Get going with contributing to open-source software
 
 ## Prerequisistes: Installing Git and Python
 
+0. Hi
 1. Make a github account
 2. Create a folder for all your code.
   * Mac: 
